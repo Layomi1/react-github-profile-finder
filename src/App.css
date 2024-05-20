@@ -12,7 +12,6 @@
 .github-input {
   width: 300px;
   height: 50px;
-  background: green;
   border: 1px solid #000;
   display: flex;
   align-items: center;
@@ -28,6 +27,7 @@ input {
 
 button {
   width: 20%;
+  height: 100%;
   background-color: #000;
   color: #fff;
   cursor: pointer;
